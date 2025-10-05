@@ -67,5 +67,4 @@ Payload Injection and Trigger:
 ---
 
 ## Notes / Takeaways
-- Commands, Burp features used
-- What you learned or struggled with
+- Initially I was just payloading script of alert(1) in search bar. Because of insufficient prior knwoledge then looking at the hint of svg payload I understood the idea of the lab.
